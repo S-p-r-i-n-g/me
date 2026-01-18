@@ -4,13 +4,9 @@
 
 Scotch Plains, NJ | dan@spring.family | 908.328.2875 | LinkedIn | GitHub
 
----
-
 ## Summary
 
 Product leader with 15 years in AdTech, driving $25-30M+ monthly revenue across Advanced TV, CTV, and DOOH product lines. Proven track record of 0-1 product launches, strategic partnerships, and ML-powered solutions. Deep expertise in programmatic advertising, data and identity solutions, and privacy and governance. Combines technical fluency (SQL, APIs, cloud platforms) with cross-functional leadership to deliver business outcomes.
-
----
 
 ## Professional Experience
 
@@ -69,8 +65,6 @@ Product leader with 15 years in AdTech, driving $25-30M+ monthly revenue across 
 - Technical sales interface for customer onboarding, integration, and product support
 - Represented customer needs to product and engineering, influencing roadmap priorities
 
----
-
 ## Technical Skills
 
 **AdTech Platforms:** Programmatic (DSP/SSP), CTV, Advanced TV, DOOH, Identity Solutions, Measurement
@@ -79,13 +73,9 @@ Product leader with 15 years in AdTech, driving $25-30M+ monthly revenue across 
 
 **Infrastructure:** AWS, GCP, Azure, APIs, JSON/XML, Product Architecture & Prototyping
 
----
-
 ## Core Competencies
 
 Strategic Planning & Roadmap Development | Cross-Functional Leadership | 0-1 Product Launches | Enterprise SaaS | Data Privacy & Governance | GTM Strategy | Team Building
-
----
 
 ## Education
 
