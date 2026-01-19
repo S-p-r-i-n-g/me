@@ -11,7 +11,7 @@ Product leader with 15 years in AdTech, driving $25-30M+ monthly revenue across 
 ## Professional Experience
 
 ### Yahoo | Director, Product Management — ATV & DOOH (DSP)
-**Feb 2023 – Nov 2024**
+**Feb 2023 – Nov 2025**
 
 *Individual contributor*
 - Owned Advanced TV product line generating $25-30M sustained monthly revenue across CTV, household addressable, cross-screen measurement, and identity solutions
