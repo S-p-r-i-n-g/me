@@ -2,7 +2,7 @@
 
 **Distinguished Product Leader | AdTech & Programmatic Platforms**
 
-Scotch Plains, NJ | dan@spring.family | 908.328.2875 | [LinkedIn](https://www.linkedin.com/in/daniel-spring-67bb211/) | [GitHub](https://github.com/S-p-r-i-n-g)
+Scotch Plains, NJ | dan@spring.family | 908.328.2875 | [LinkedIn](https://www.linkedin.com/in/the-real-daniel-spring/) | [GitHub](https://github.com/S-p-r-i-n-g)
 
 ## Summary
 
