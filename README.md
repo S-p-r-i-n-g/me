@@ -2,68 +2,132 @@
 
 **Distinguished Product Leader | AdTech & Programmatic Platforms**
 
-Scotch Plains, NJ | dan@spring.family | 908.328.2875 | [LinkedIn](https://www.linkedin.com/in/the-real-daniel-spring/) | [GitHub](https://github.com/S-p-r-i-n-g)
+Scotch Plains, NJ | [dan@spring.family](mailto:dan@spring.family) | 908.328.2875 | [LinkedIn](https://www.linkedin.com/in/the-real-daniel-spring/) | [GitHub](https://github.com/S-p-r-i-n-g)
 
 ## Summary
 
 Product leader with 15 years in AdTech, driving $25-30M+ monthly revenue across Advanced TV, CTV, and DOOH product lines. Proven track record of 0-1 product launches, strategic partnerships, and ML-powered solutions. Deep expertise in programmatic advertising, data and identity solutions, and privacy and governance. Combines technical fluency (SQL, APIs, cloud platforms) with cross-functional leadership to deliver business outcomes.
 
+---
+
+## Product Ethos
+
+*The principles I bring to every team, every product, and every decision.*
+
+**01. Check your ego at the door**
+Product is a team sport—not a solo performance. Be here for the work, not the credit.
+
+**02. Win because you want to, not because you have to**
+Self-preservation shouldn't get you out of bed. Solving hard problems should.
+
+**03. Debate like you mean it**
+Dissent is welcome when it's driven by getting it right—not by being right.
+
+**04. Stay curious, stay scrappy**
+Think like a hacker. Resourcefulness beats resources every time.
+
+**05. Never take "no" as the first answer**
+Constraints are invitations to think differently. Push back, then push forward.
+
+**06. Sometimes the best solution is low-tech**
+Complexity isn't sophistication. Solve the problem, not the technology.
+
+**07. Go positive, go first**
+Assume good intent. Give grace. Reciprocity compounds.
+
+**08. Own it—even when it's not yours**
+The buck stops with you. Make decisions, stand behind them, fix what breaks.
+
+**09. PMs are not mini-CEOs**
+Lead with humility. Serve your team, your users, and your stakeholders—in that order.
+
+**10. No one's too important to pick up a broom**
+Do the hard work. Help each other. Win together.
+
+**11. You don't know it until you do it**
+The only way to truly understand a process is to live it—more than once.
+
+**12. Embrace discomfort**
+Most of this job is managing through uncertainty. Build that muscle. Ask for help.
+
+**13. Know your "why"**
+If you can't explain why you're doing something, you probably shouldn't be doing it.
+
+**14. Start with the absurd**
+Design thinking means giving yourself permission to explore before you converge.
+
+**15. Anything worth doing is worth doing well**
+Your work is your reputation. No task is too small to do right.
+
+---
+
 ## Professional Experience
 
 ### Yahoo | Director, Product Management — ATV & DOOH (DSP)
+
 **Feb 2023 – Nov 2025**
 
 *Individual contributor*
-- Owned Advanced TV product line generating $25-30M sustained monthly revenue across CTV, household addressable, cross-screen measurement, and identity solutions
-- Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4), generating $2.5M direct-booked revenue in first quarter
-- Executed first-to-market partnership with VideoAmp, launching TV measurement product driving 600+ weekly reports and influencing $50M/year in media spend
-- Launched ML-based predictive reporting for frequency management, quantifying cost avoidance and media reinvestment opportunities
+
+* Owned Advanced TV product line generating $25-30M sustained monthly revenue across CTV, household addressable, cross-screen measurement, and identity solutions
+* Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4), generating $2.5M direct-booked revenue in first quarter
+* Executed first-to-market partnership with VideoAmp, launching TV measurement product driving 600+ weekly reports and influencing $50M/year in media spend
+* Launched ML-based predictive reporting for frequency management, quantifying cost avoidance and media reinvestment opportunities
 
 *Manager*
-- Managed team of Product Managers across ATV and Digital Out-of-Home verticals
-- Led strategic turnaround of ATV product team within 6 months, improving roadmap delivery and cross-functional alignment
-- Mentored junior product managers and interns
+
+* Managed team of Product Managers across ATV and Digital Out-of-Home verticals
+* Led strategic turnaround of ATV product team within 6 months, improving roadmap delivery and cross-functional alignment
+* Mentored junior product managers and interns
 
 ### Yahoo | Director, Product Management — DOOH (SSP)
+
 **May 2021 – Feb 2023**
 
-- Established DOOH Product Management function; delivered MVP launch positioning Yahoo SSP in emerging programmatic OOH market
-- Owned full product lifecycle from vision through GTM in key growth vertical
-- Led, co-developed, and delivered custom solutions for several strategic partnerships including Cooler Screens, Edison Interactive, Marriott, and Poppulo (formerly FourWinds Interactive)
-- Built industry first turnkey DOOH unified auction solution supporting booking, delivery, and optimization across direct sold, programmatic guaranteed, and scatter
-- Helped research and deliver a prototype with Publica to perform a server-to-server unified auction across CTV and DOOH
+* Established DOOH Product Management function; delivered MVP launch positioning Yahoo SSP in emerging programmatic OOH market
+* Owned full product lifecycle from vision through GTM in key growth vertical
+* Led, co-developed, and delivered custom solutions for several strategic partnerships including Cooler Screens, Edison Interactive, Marriott, and Poppulo (formerly FourWinds Interactive)
+* Built industry first turnkey DOOH unified auction solution supporting booking, delivery, and optimization across direct sold, programmatic guaranteed, and scatter
+* Helped research and deliver a prototype with Publica to perform a server-to-server unified auction across CTV and DOOH
 
 ### Verizon Media / Oath | Director, Product Management — CTV/OTT (SSP)
+
 **May 2020 – May 2021**
 
-- Led OTT/CTV product strategy for distribution, premium monetization, and advanced analytics
-- Owned roadmap for all CTV ad formats, data/targeting solutions, and emerging tech integration
-- Helped launch Oath's innovative CTV server-to-server header bidding solution, leading reporting, analytics, and mediation
+* Led OTT/CTV product strategy for distribution, premium monetization, and advanced analytics
+* Owned roadmap for all CTV ad formats, data/targeting solutions, and emerging tech integration
+* Helped launch Oath's innovative CTV server-to-server header bidding solution, leading reporting, analytics, and mediation
 
 ### Verizon Media / Oath | Director, Product Management — Shared Components
+
 **Aug 2017 – May 2020**
 
-- Product owner for unified reporting, user matching, and mediation products across SSP portfolio
-- Led compliance and identity initiatives navigating GDPR, CCPA, and signal loss challenges
-- Drove platform consolidation post-acquisition, improving operational efficiency
+* Product owner for unified reporting, user matching, and mediation products across SSP portfolio
+* Led compliance and identity initiatives navigating GDPR, CCPA, and signal loss challenges
+* Drove platform consolidation post-acquisition, improving operational efficiency
 
 ### AOL | Principal Product Manager — Shared Components
+
 **Aug 2016 – Aug 2017**
 
-- Owned SSO, authorization frameworks, and cross-platform entity management
-- Led unification of exchange UI, reporting, and inventory quality standards across properties
+* Owned SSO, authorization frameworks, and cross-platform entity management
+* Led unification of exchange UI, reporting, and inventory quality standards across properties
 
 ### AOL | Director, Product Support — Ads
+
 **June 2013 – Aug 2016**
 
-- Built global 24/7 technical support organization (Tier 1-3) for enterprise AdTech platform
-- Served as SME and Tier 3 escalation engineer, reducing resolution time and improving customer satisfaction
+* Built global 24/7 technical support organization (Tier 1-3) for enterprise AdTech platform
+* Served as SME and Tier 3 escalation engineer, reducing resolution time and improving customer satisfaction
 
 ### Adap.tv | Technical Services Engineer
+
 **July 2011 – June 2013**
 
-- Technical sales interface for customer onboarding, integration, and product support
-- Represented customer needs to product and engineering, influencing roadmap priorities
+* Technical sales interface for customer onboarding, integration, and product support
+* Represented customer needs to product and engineering, influencing roadmap priorities
+
+---
 
 ## Technical Skills
 
