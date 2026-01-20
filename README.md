@@ -61,6 +61,18 @@ Your work is your reputation. No task is too small to do right.
 
 ---
 
+## Key Achievements
+
+* **$25-30M monthly revenue** — Owned Advanced TV product line; led strategic turnaround of product team and roadmap within first 6 months
+
+* **$2.5M first-quarter revenue** — Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4) in 6 months
+
+* **$50M/year in influenced media spend** — Executed first-to-market partnership with VideoAmp, launching TV measurement product driving 600+ weekly reports
+
+* **ML-powered predictive reporting** — Launched frequency management solution quantifying cost avoidance and media reinvestment opportunities
+
+---
+
 ## Professional Experience
 
 ### Yahoo | Director, Product Management — ATV & DOOH (DSP)
@@ -69,15 +81,14 @@ Your work is your reputation. No task is too small to do right.
 
 *Individual contributor*
 
-* Owned Advanced TV product line generating $25-30M sustained monthly revenue across CTV, household addressable, cross-screen measurement, and identity solutions
-* Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4), generating $2.5M direct-booked revenue in first quarter
+* Owned Advanced TV product line generating $25-30M in sustained monthly revenue; led strategic turnaround of product team and roadmap within first 6 months
+* Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4) in 6 months, generating $2.5M direct-booked revenue in first quarter
 * Executed first-to-market partnership with VideoAmp, launching TV measurement product driving 600+ weekly reports and influencing $50M/year in media spend
 * Launched ML-based predictive reporting for frequency management, quantifying cost avoidance and media reinvestment opportunities
 
 *Manager*
 
 * Managed team of Product Managers across ATV and Digital Out-of-Home verticals
-* Led strategic turnaround of ATV product team within 6 months, improving roadmap delivery and cross-functional alignment
 * Mentored junior product managers and interns
 
 ### Yahoo | Director, Product Management — DOOH (SSP)
