@@ -6,7 +6,18 @@ Scotch Plains, NJ | [dan@spring.family](mailto:dan@spring.family) | 908.328.2875
 
 ## Summary
 
-Product leader with 15 years in AdTech, driving $25-30M+ monthly revenue across Advanced TV, CTV, and DOOH product lines. Proven track record of 0-1 product launches, strategic partnerships, and ML-powered solutions. Deep expertise in programmatic advertising, data and identity solutions, and privacy and governance. Combines technical fluency (SQL, APIs, cloud platforms) with cross-functional leadership to deliver business outcomes.
+## Summary
+Product leader with 15 years in AdTech, driving **$25-30M+ monthly revenue** through the **strategic turnaround** and growth of CTV, Linear Addressable, and DOOH product lines. Proven track record of **0-1 launches**, including **privacy-safe identity solutions** and **ML-powered measurement** products. Combines **technical fluency** (SQL, APIs, GenAI) with cross-functional leadership to deliver high-stakes business outcomes in complex regulatory environments.
+
+---
+
+## Key Achievements
+
+* **$25–30M Sustained Monthly Revenue** – Spearheaded a strategic turnaround of the Advanced TV (ATV) product line, building a new cross-functional team and re-aligning the roadmap to meet a new strategic direction within the first 6 months.
+* **$25M Incremental CTV Investment** – Delivered a 0–1 privacy-safe audience solution ($Zip+4$) to secure a major agency holding company commitment and de-risk high-priority privacy and policy approvals.
+* **$50M/Year Influenced Media Spend** – Executed a first-to-market partnership with VideoAmp, launching a TV measurement product that scaled to 600+ weekly reports for advertisers.
+* **ML-Powered Predictive Performance** – Shipped frequency management solutions and AI-assisted workflows that quantified cost avoidance for buyers and reduced GTM friction for mid-market agencies.
+* **Mission-Critical Data Integrity** – Designed and shipped a custom internal reconciliation engine in 6 weeks to save a 3P TV measurement integration, maintaining 95% data accuracy despite signal loss.
 
 ---
 
@@ -61,25 +72,13 @@ Your work is your reputation. No task is too small to do right.
 
 ---
 
-## Key Achievements
-
-* **$25-30M monthly revenue** — Owned Advanced TV product line; led strategic turnaround of product team and roadmap within first 6 months
-
-* **$2.5M first-quarter revenue** — Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4) in 6 months
-
-* **$50M/year in influenced media spend** — Executed first-to-market partnership with VideoAmp, launching TV measurement product driving 600+ weekly reports
-
-* **ML-powered predictive reporting** — Launched frequency management solution quantifying cost avoidance and media reinvestment opportunities
-
----
-
 ## Professional Experience
 
 ### Yahoo | Director, Product Management — ATV & DOOH (DSP)
 
 **Feb 2023 – Nov 2025**
 
-* Product line director for emerging growth channels generating $25-30M in sustained monthly revenue across Streaming TV (CTV), Digital Out-of-Home (DOOH), and linear addressable.
+* Product line director for emerging growth channels generating $25-30M in sustained monthly revenue across CTV, Linear Addressable TV, and DOOH.
 * Led a strategic turnaround of the Advanced TV vertical by managing cross-functional expertise across planning, activation, targeting, identity, and measurement to align roadmap delivery with high-growth unified auction solutions.
 * Built a 0-1 privacy-safe audience solution (Zip+4) by securing a $25M incremental CTV spend commitment from a major agency holding company to justify and de-risk high-priority privacy and policy approvals.
 * Shipped a custom internal reconciliation engine within 6 weeks to save a mission-critical 3P TV measurement integration, maintaining 95% data accuracy despite massive 3P signal discrepancies and a hard contract expiration date.
