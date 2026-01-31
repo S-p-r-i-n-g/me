@@ -79,17 +79,12 @@ Your work is your reputation. No task is too small to do right.
 
 **Feb 2023 – Nov 2025**
 
-*Individual contributor*
-
-* Owned Advanced TV product line generating $25-30M in sustained monthly revenue; led strategic turnaround of product team and roadmap within first 6 months
-* Delivered 0-1 launch of privacy-safe geo-indexed audience solution (zip+4) in 6 months, generating $2.5M direct-booked revenue in first quarter
-* Executed first-to-market partnership with VideoAmp, launching TV measurement product driving 600+ weekly reports and influencing $50M/year in media spend
-* Launched ML-based predictive reporting for frequency management, quantifying cost avoidance and media reinvestment opportunities
-
-*Manager*
-
-* Managed team of Product Managers across ATV and Digital Out-of-Home verticals
-* Mentored junior product managers and interns
+* Product line director for emerging growth channels generating $25-30M in sustained monthly revenue across Streaming TV (CTV), Digital Out-of-Home (DOOH), and linear addressable.
+* Led a strategic turnaround of the Advanced TV vertical by managing cross-functional expertise across planning, activation, targeting, identity, and measurement to align roadmap delivery with high-growth unified auction solutions.
+* Built a 0-1 privacy-safe audience solution (Zip+4) by securing a $25M incremental CTV spend commitment from a major agency holding company to justify and de-risk high-priority privacy and policy approvals.
+* Shipped a custom internal reconciliation engine within 6 weeks to save a mission-critical 3P TV measurement integration, maintaining 95% data accuracy despite massive 3P signal discrepancies and a hard contract expiration date.
+* Developed ML-based predictive frequency reporting that automated the quantification of cost avoidance, providing advertisers with a deterministic ROI story that justified increased programmatic budget allocations.
+* Led market discovery for Tier 2/Mid-Market expansion, modeling new buyer archetypes and designing a turnkey, AI-assisted performance workflow that reduced GTM friction for non-enterprise agencies.
 
 ### Yahoo | Director, Product Management — DOOH (SSP)
 
