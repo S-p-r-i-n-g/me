@@ -8,7 +8,6 @@ Scotch Plains, NJ | [dan@spring.family](mailto:dan@spring.family) | 908.328.2875
 
 Product leader with 15 years in AdTech, driving **$25-30M+ monthly revenue** through the **strategic turnaround** and growth of CTV, Linear Addressable, and DOOH product lines. Proven track record of **0-1 launches**, including **privacy-safe identity solutions** and **ML-powered measurement** products. Combines **technical fluency** (SQL, APIs, GenAI) with cross-functional leadership to deliver high-stakes business outcomes in complex regulatory environments.
 
----
 
 ## Key Achievements
 
@@ -18,7 +17,6 @@ Product leader with 15 years in AdTech, driving **$25-30M+ monthly revenue** thr
 * **ML-Powered Predictive Performance** – Shipped frequency management solutions and AI-assisted workflows that quantified cost avoidance for buyers and reduced GTM friction for mid-market agencies.
 * **Mission-Critical Data Integrity** – Designed and shipped a custom internal reconciliation engine in 6 weeks to save a 3P TV measurement integration, maintaining 95% data accuracy despite signal loss.
 
----
 
 ## Product Ethos
 
@@ -69,7 +67,6 @@ Design thinking means giving yourself permission to explore before you converge.
 **15. Anything worth doing is worth doing well**
 Your work is your reputation. No task is too small to do right.
 
----
 
 ## Professional Experience
 
@@ -131,7 +128,6 @@ Your work is your reputation. No task is too small to do right.
 * Technical sales interface for customer onboarding, integration, and product support
 * Represented customer needs to product and engineering, influencing roadmap priorities
 
----
 
 ## Technical Skills
 
