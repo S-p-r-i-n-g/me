@@ -6,7 +6,6 @@ Scotch Plains, NJ | [dan@spring.family](mailto:dan@spring.family) | 908.328.2875
 
 ## Summary
 
-## Summary
 Product leader with 15 years in AdTech, driving **$25-30M+ monthly revenue** through the **strategic turnaround** and growth of CTV, Linear Addressable, and DOOH product lines. Proven track record of **0-1 launches**, including **privacy-safe identity solutions** and **ML-powered measurement** products. Combines **technical fluency** (SQL, APIs, GenAI) with cross-functional leadership to deliver high-stakes business outcomes in complex regulatory environments.
 
 ---
