@@ -130,16 +130,15 @@ Your work is your reputation. No task is too small to do right.
 
 
 ## Technical Skills
-
-**AdTech Platforms:** Programmatic (DSP/SSP), CTV, Advanced TV, DOOH, Identity Solutions, Measurement
-
-**Data & Analytics:** SQL, Data Modeling, Quantitative Analysis, ML/Predictive Analytics, GenAI/Agentic AI
-
-**Infrastructure:** AWS, GCP, Azure, APIs, JSON/XML, Product Architecture & Prototyping
+- **AdTech Ecosystem:** Programmatic (DSP/SSP), CTV/OTT, Linear Addressable, DOOH, Identity Solutions, Data Clean Rooms, & Attribution Modeling.
+- **Data & AI/ML:** SQL, Data Modeling, ML-powered Predictive Analytics, Agentic AI Workflows, & Quantitative Performance Measurement.
+- **Architecture & Infrastructure:** API Integration (REST/JSON), Cloud Infrastructure (AWS/GCP/Azure), Product Prototyping, & Privacy-Safe Data Governance (GDPR/CCPA).
 
 ## Core Competencies
-
-Strategic Planning & Roadmap Development | Cross-Functional Leadership | 0-1 Product Launches | Enterprise SaaS | Data Privacy & Governance | GTM Strategy | Team Building
+- **Strategic Leadership:** Product Strategy & Turnarounds, 0-1 Product Launches, & Cross-Functional Team Building.
+- **Commercial Growth:** GTM Strategy, Agency Partnership Development, & Value-Based Pricing/Packaging.
+- **Execution & Scale:** Enterprise SaaS, ML-Driven Automation, Global Support Operations, & Platform Consolidation.
+- **Compliance & Trust:** Privacy-Safe Identity Governance, Regulatory Compliance (GDPR/CCPA), & Data Ethics.
 
 ## Education
 
