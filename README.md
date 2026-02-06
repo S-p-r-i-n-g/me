@@ -72,7 +72,7 @@ Your work is your reputation. No task is too small to do right.
 
 ## Professional Experience
 
-### Yahoo | Director, Product Management — ATV & DOOH (DSP)
+### Yahoo | Director, Product Management — ATV & DOOH | DSP
 
 **Feb 2023 – Nov 2025**
 
@@ -83,7 +83,7 @@ Your work is your reputation. No task is too small to do right.
 * **Data Strategy:** Developed **ML-based predictive frequency reporting** that automated cost-avoidance quantification, providing advertisers with a deterministic ROI story to justify increased budget allocations.
 * **Market Expansion:** Led discovery for Mid-Market growth, designing a turnkey, **AI-assisted performance workflow** that reduced GTM friction for non-enterprise agencies.
 
-### Yahoo | Director, Product Management — DOOH (SSP)
+### Yahoo | Director, Product Management — DOOH | SSP
 
 **May 2021 – Feb 2023**
 
@@ -92,7 +92,7 @@ Your work is your reputation. No task is too small to do right.
 * **Industry Firsts:** Built a **turnkey DOOH unified auction solution** supporting booking, delivery, and optimization across direct sold, programmatic guaranteed, and scatter.
 * **Future Prototyping:** Researched and delivered a prototype with Publica to perform a **server-to-server unified auction** across CTV and DOOH.
 
-### Verizon Media / Oath | Director, Product Management — CTV/OTT (SSP)
+### Verizon Media / Oath | Director, Product Management — CTV/OTT | SSP
 
 **May 2020 – May 2021**
 
