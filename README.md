@@ -1,12 +1,14 @@
 # DANIEL SPRING
 
-**Distinguished Product Leader | AdTech & Programmatic Platforms**
+**Distinguished Product Leader | AdTech & Programmatic Performance**
 
 Scotch Plains, NJ | [dan@spring.family](mailto:dan@spring.family) | 908.328.2875 | [LinkedIn](https://www.linkedin.com/in/the-real-daniel-spring/) | [GitHub](https://github.com/S-p-r-i-n-g)
 
 ## Summary
 
-Product leader with 15 years in AdTech, driving **$25-30M+ monthly revenue** through the **strategic turnaround** and growth of CTV, Linear Addressable, and DOOH product lines. Proven track record of **0-1 launches**, including **privacy-safe identity solutions** and **ML-powered measurement** products. Combines **technical fluency** (SQL, APIs, GenAI) with cross-functional leadership to deliver high-stakes business outcomes in complex regulatory environments.
+* **Product leader with 15 years in AdTech**, driving **$25-30M+ monthly revenue** through the strategic turnaround and growth of CTV, Linear Addressable, and DOOH product lines.
+* **Proven track record of 0-1 launches**, including privacy-safe identity solutions and ML-powered measurement products.
+* **Combines technical fluency** (SQL, APIs, GenAI) with cross-functional leadership to deliver high-stakes business outcomes in complex regulatory environments.
 
 
 ## Key Achievements
@@ -74,30 +76,29 @@ Your work is your reputation. No task is too small to do right.
 
 **Feb 2023 – Nov 2025**
 
-* Product line director for emerging growth channels generating $25-30M in sustained monthly revenue across CTV, Linear Addressable TV, and DOOH.
-* Led a strategic turnaround of the Advanced TV vertical by managing cross-functional expertise across planning, activation, targeting, identity, and measurement to align roadmap delivery with high-growth unified auction solutions.
-* Built a 0-1 privacy-safe audience solution (Zip+4) by securing a $25M incremental CTV spend commitment from a major agency holding company to justify and de-risk high-priority privacy and policy approvals.
-* Shipped a custom internal reconciliation engine within 6 weeks to save a mission-critical 3P TV measurement integration, maintaining 95% data accuracy despite massive 3P signal discrepancies and a hard contract expiration date.
-* Developed ML-based predictive frequency reporting that automated the quantification of cost avoidance, providing advertisers with a deterministic ROI story that justified increased programmatic budget allocations.
-* Led market discovery for Tier 2/Mid-Market expansion, modeling new buyer archetypes and designing a turnkey, AI-assisted performance workflow that reduced GTM friction for non-enterprise agencies.
+* **Revenue Ownership:** Product line director for emerging growth channels generating **$25-30M in sustained monthly revenue** across CTV, Linear Addressable TV, and DOOH.
+* **Strategic Turnaround:** Led the Advanced TV vertical by managing cross-functional expertise across planning, activation, targeting, and identity to align roadmap delivery with high-growth unified auction solutions.
+* **Product Innovation:** Built a **0-1 privacy-safe audience solution (Zip+4)** by securing a $25M incremental CTV spend commitment from a major agency holding company to de-risk policy approvals.
+* **Technical Execution:** Shipped a custom internal reconciliation engine within 6 weeks to save a mission-critical 3P TV measurement integration, maintaining **95% data accuracy** despite massive signal discrepancies.
+* **Data Strategy:** Developed **ML-based predictive frequency reporting** that automated cost-avoidance quantification, providing advertisers with a deterministic ROI story to justify increased budget allocations.
+* **Market Expansion:** Led discovery for Mid-Market growth, designing a turnkey, **AI-assisted performance workflow** that reduced GTM friction for non-enterprise agencies.
 
 ### Yahoo | Director, Product Management — DOOH (SSP)
 
 **May 2021 – Feb 2023**
 
-* Established DOOH Product Management function; delivered MVP launch positioning Yahoo SSP in emerging programmatic OOH market
-* Owned full product lifecycle from vision through GTM in key growth vertical
-* Led, co-developed, and delivered custom solutions for several strategic partnerships including Cooler Screens, Edison Interactive, Marriott, and Poppulo (formerly FourWinds Interactive)
-* Built industry first turnkey DOOH unified auction solution supporting booking, delivery, and optimization across direct sold, programmatic guaranteed, and scatter
-* Helped research and deliver a prototype with Publica to perform a server-to-server unified auction across CTV and DOOH
+* **Functional Launch:** Established the DOOH Product Management function and delivered the **MVP launch** positioning Yahoo SSP in the emerging programmatic OOH market.
+* **Strategic Partnerships:** Led and delivered custom solutions for several strategic partnerships including **Cooler Screens, Marriott, and Edison Interactive**.
+* **Industry Firsts:** Built a **turnkey DOOH unified auction solution** supporting booking, delivery, and optimization across direct sold, programmatic guaranteed, and scatter.
+* **Future Prototyping:** Researched and delivered a prototype with Publica to perform a **server-to-server unified auction** across CTV and DOOH.
 
 ### Verizon Media / Oath | Director, Product Management — CTV/OTT (SSP)
 
 **May 2020 – May 2021**
 
-* Led OTT/CTV product strategy for distribution, premium monetization, and advanced analytics
-* Owned roadmap for all CTV ad formats, data/targeting solutions, and emerging tech integration
-* Helped launch Oath's innovative CTV server-to-server header bidding solution, leading reporting, analytics, and mediation
+* **Channel Strategy:** Led OTT/CTV product strategy for distribution, premium monetization, and advanced analytics.
+* **Product Ownership:** Product Owner for all CTV ad formats, data/targeting solutions, and emerging tech integration.
+* **Header Bidding:** Helped launch Oath's innovative **CTV server-to-server header bidding solution**, leading reporting, analytics, and mediation.
 
 ### Verizon Media / Oath | Director, Product Management — Shared Components
 
@@ -130,15 +131,15 @@ Your work is your reputation. No task is too small to do right.
 
 
 ## Technical Skills
-- **AdTech Ecosystem:** Programmatic (DSP/SSP), CTV/OTT, Linear Addressable, DOOH, Identity Solutions, Data Clean Rooms, & Attribution Modeling.
-- **Data & AI/ML:** SQL, Data Modeling, ML-powered Predictive Analytics, Agentic AI Workflows, & Quantitative Performance Measurement.
-- **Architecture & Infrastructure:** API Integration (REST/JSON), Cloud Infrastructure (AWS/GCP/Azure), Product Prototyping, & Privacy-Safe Data Governance (GDPR/CCPA).
+* **AdTech Platforms:** Programmatic (DSP/SSP), CTV/OTT, Linear Addressable, DOOH, Identity Solutions, Data Clean Rooms, & Attribution Modeling.
+* **Data & Analytics:** SQL, Data Modeling, ML-powered Predictive Analytics, **Agentic AI Workflows**, & Quantitative Performance Measurement.
+* **Infrastructure:** API Integration (REST/JSON), Cloud Infrastructure (AWS/GCP/Azure), Product Prototyping, & Privacy-Safe Data Governance (GDPR/CCPA).
 
 ## Core Competencies
-- **Strategic Leadership:** Product Strategy & Turnarounds, 0-1 Product Launches, & Cross-Functional Team Building.
-- **Commercial Growth:** GTM Strategy, Agency Partnership Development, & Value-Based Pricing/Packaging.
-- **Execution & Scale:** Enterprise SaaS, ML-Driven Automation, Global Support Operations, & Platform Consolidation.
-- **Compliance & Trust:** Privacy-Safe Identity Governance, Regulatory Compliance (GDPR/CCPA), & Data Ethics.
+* **Strategic Leadership:** Product Strategy & Turnarounds, 0-1 Product Launches, & Cross-Functional Team Building.
+* **Commercial Growth:** GTM Strategy, Agency Partnership Development, & Value-Based Pricing/Packaging.
+* **Execution & Scale:** Enterprise SaaS, ML-Driven Automation, Global Support Operations, & Platform Consolidation.
+* **Compliance & Trust:** Privacy-Safe Identity Governance, Regulatory Compliance (GDPR/CCPA), & Data Ethics.
 
 ## Education
 
